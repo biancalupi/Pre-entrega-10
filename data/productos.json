@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nombre": "Almendras", "precioPorGramo": 15, "stockGramos": 5000 },
+  { "id": 2, "nombre": "Nueces", "precioPorGramo": 12, "stockGramos": 4000 },
+  { "id": 3, "nombre": "Semillas de Chía", "precioPorGramo": 5, "stockGramos": 8000 },
+  { "id": 4, "nombre": "Granola Artesanal", "precioPorGramo": 8, "stockGramos": 6000 }
+]
